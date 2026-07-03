@@ -1,0 +1,218 @@
+Image_Name,Generation,Selected_MMRs,Active_Count,Overall_Fitness,Obj1_Attack_Score,Obj2_Distortion_Score,MMR_Parameters,Original_Caption,Original_Categories,Transformed_Caption,Transformed_Categories
+3753.jpg,1,"[""MMR5_Shear"", ""MMR4_Downsample"", ""MMR1_Rotation""]",3,nan,0.000000,0.602588,"{""MMR5_Shear"": {""h_shear"": 0.0548226341244234}, ""MMR4_Downsample"": {""scale_factor"": 0.9906180453918136}, ""MMR1_Rotation"": {""angle"": -0.7164193096774483}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: None
+2. Vegetation: None
+3. Trash: One object
+4. Objects: One object","Trash:0, Objects:1, Animal:0, Vegetation:0"
+3753.jpg,2,"[""MMR6_Translate"", ""MMR1_Rotation"", ""MMR2_Scale"", ""MMR5_Shear"", ""MMR4_Downsample"", ""MMR3_HistEq""]",6,nan,2.000000,3.452293,"{""MMR6_Translate"": {""h_shift_pct"": -0.02716724806857578}, ""MMR1_Rotation"": {""angle"": 2.5773779567094035}, ""MMR2_Scale"": {""zoom_level"": 0.8878206405988474}, ""MMR5_Shear"": {""h_shear"": 0.07316217018437068}, ""MMR4_Downsample"": {""scale_factor"": 0.9928672989344901}, ""MMR3_HistEq"": {""clip_limit"": 2.0982365944864174}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 piece of trash
+4. Objects: 1 frame","Trash:1, Objects:0, Animal:1, Vegetation:1"
+3753.jpg,3,"[""MMR2_Scale"", ""MMR6_Translate"", ""MMR3_HistEq""]",3,nan,1.000000,2.737181,"{""MMR2_Scale"": {""zoom_level"": 1.1024341823671389}, ""MMR6_Translate"": {""h_shift_pct"": -0.023815636377245954}, ""MMR3_HistEq"": {""clip_limit"": 2.601879071572289}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There is a fish swimming in the water.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,4,"[""MMR5_Shear"", ""MMR2_Scale"", ""MMR1_Rotation"", ""MMR3_HistEq""]",4,nan,1.000000,3.746709,"{""MMR5_Shear"": {""h_shear"": -0.1271243823436912}, ""MMR2_Scale"": {""zoom_level"": 1.2418711168204473}, ""MMR1_Rotation"": {""angle"": 4.325528443430969}, ""MMR3_HistEq"": {""clip_limit"": 2.227870833520736}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There is a fish swimming in the water.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,5,"[""MMR4_Downsample"", ""MMR2_Scale""]",2,nan,0.500000,0.827948,"{""MMR4_Downsample"": {""scale_factor"": 0.977739463089377}, ""MMR2_Scale"": {""zoom_level"": 0.818397238913614}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One object is visible in the image, which is a yellow object.","Trash:0, Objects:2, Animal:0, Vegetation:0"
+3753.jpg,6,"[""MMR3_HistEq"", ""MMR5_Shear""]",2,nan,1.000000,1.937266,"{""MMR3_HistEq"": {""clip_limit"": 2.449787088220102}, ""MMR5_Shear"": {""h_shear"": 0.07312189128709248}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There are no visible animals in the underwater image.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,7,"[""MMR2_Scale"", ""MMR3_HistEq"", ""MMR1_Rotation"", ""MMR6_Translate""]",4,nan,1.000000,3.095768,"{""MMR2_Scale"": {""zoom_level"": 1.0801574244420826}, ""MMR3_HistEq"": {""clip_limit"": 2.8761416300883242}, ""MMR1_Rotation"": {""angle"": -2.370010696670497}, ""MMR6_Translate"": {""h_shift_pct"": -0.014352999281173798}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: One fish is visible in the underwater image.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,8,"[""MMR5_Shear"", ""MMR2_Scale"", ""MMR1_Rotation"", ""MMR3_HistEq"", ""MMR4_Downsample""]",5,nan,2.000000,3.436888,"{""MMR5_Shear"": {""h_shear"": 0.1088199339581549}, ""MMR2_Scale"": {""zoom_level"": 0.7471825589508813}, ""MMR1_Rotation"": {""angle"": 0.34160683807680225}, ""MMR3_HistEq"": {""clip_limit"": 1.9296998988883045}, ""MMR4_Downsample"": {""scale_factor"": 0.9129323905296448}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 piece of trash
+4. Objects: 1 frame","Trash:1, Objects:0, Animal:1, Vegetation:1"
+3753.jpg,9,"[""MMR5_Shear"", ""MMR3_HistEq"", ""MMR6_Translate"", ""MMR4_Downsample""]",4,nan,1.000000,2.806656,"{""MMR5_Shear"": {""h_shear"": -0.09839873474711358}, ""MMR3_HistEq"": {""clip_limit"": 1.9828802788510735}, ""MMR6_Translate"": {""h_shift_pct"": -0.013305150482451105}, ""MMR4_Downsample"": {""scale_factor"": 0.9275720855997869}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: One fish is visible in the underwater image.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,10,"[""MMR5_Shear"", ""MMR2_Scale"", ""MMR6_Translate""]",3,nan,1.500000,1.136319,"{""MMR5_Shear"": {""h_shear"": -0.1260836049747219}, ""MMR2_Scale"": {""zoom_level"": 0.9773109563403032}, ""MMR6_Translate"": {""h_shift_pct"": -0.006603939512959702}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 piece of trash
+4. Objects: 1 object
+
+In this underwater image, there is a fish swimming in the water, a plant, a piece of trash, and an object. The image is taken from a bird's","Trash:1, Objects:1, Animal:1, Vegetation:1"
+3753.jpg,11,"[""MMR6_Translate"", ""MMR5_Shear"", ""MMR3_HistEq"", ""MMR4_Downsample""]",4,nan,1.000000,2.447856,"{""MMR6_Translate"": {""h_shift_pct"": 0.0035381342483034248}, ""MMR5_Shear"": {""h_shear"": 0.13209033672639756}, ""MMR3_HistEq"": {""clip_limit"": 1.904800842799292}, ""MMR4_Downsample"": {""scale_factor"": 0.9455485220638602}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There is a fish swimming in the water.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,12,"[""MMR5_Shear"", ""MMR3_HistEq"", ""MMR1_Rotation"", ""MMR2_Scale""]",4,nan,2.000000,2.979698,"{""MMR5_Shear"": {""h_shear"": -0.06629601836740456}, ""MMR3_HistEq"": {""clip_limit"": 2.8170347488393195}, ""MMR1_Rotation"": {""angle"": 2.445160920354443}, ""MMR2_Scale"": {""zoom_level"": 0.9305026934011025}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 piece of trash
+4. Objects: 1 rock
+
+In this underwater image, there are four visible objects:
+
+1. One fish
+2. One plant
+3. One piece of trash
+4. One rock","Trash:1, Objects:0, Animal:1, Vegetation:1"
+3753.jpg,13,"[""MMR4_Downsample"", ""MMR2_Scale""]",2,nan,1.000000,0.861254,"{""MMR4_Downsample"": {""scale_factor"": 0.9797436452360218}, ""MMR2_Scale"": {""zoom_level"": 1.1976070748017051}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There are no visible animals in the underwater image.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,14,"[""MMR6_Translate""]",1,nan,1.000000,0.769747,"{""MMR6_Translate"": {""h_shift_pct"": -0.02309240893508873}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There are no visible animals in the underwater image.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,15,"[""MMR3_HistEq"", ""MMR5_Shear"", ""MMR1_Rotation"", ""MMR2_Scale"", ""MMR6_Translate""]",5,nan,2.000000,3.573015,"{""MMR3_HistEq"": {""clip_limit"": 2.756004977178753}, ""MMR5_Shear"": {""h_shear"": 0.05455280336940255}, ""MMR1_Rotation"": {""angle"": -3.834932314709001}, ""MMR2_Scale"": {""zoom_level"": 0.8567869675693862}, ""MMR6_Translate"": {""h_shift_pct"": 0.006268848828351423}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 piece of trash
+4. Objects: 1 frame","Trash:1, Objects:0, Animal:1, Vegetation:1"
+3753.jpg,16,"[""MMR4_Downsample"", ""MMR5_Shear"", ""MMR2_Scale"", ""MMR6_Translate"", ""MMR3_HistEq""]",5,nan,1.000000,3.334695,"{""MMR4_Downsample"": {""scale_factor"": 0.9425570673824379}, ""MMR5_Shear"": {""h_shear"": 0.10765852440128829}, ""MMR2_Scale"": {""zoom_level"": 1.2864476148924089}, ""MMR6_Translate"": {""h_shift_pct"": 0.028948171493780844}, ""MMR3_HistEq"": {""clip_limit"": 1.1227777625942177}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There is a fish swimming in the water.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,17,"[""MMR2_Scale"", ""MMR3_HistEq"", ""MMR6_Translate"", ""MMR5_Shear"", ""MMR4_Downsample""]",5,nan,0.500000,2.010934,"{""MMR2_Scale"": {""zoom_level"": 1.0171456357536506}, ""MMR3_HistEq"": {""clip_limit"": 1.6152549393921034}, ""MMR6_Translate"": {""h_shift_pct"": -0.017941731071922068}, ""MMR5_Shear"": {""h_shear"": -0.04746649977448747}, ""MMR4_Downsample"": {""scale_factor"": 0.9575974036364868}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: One person is swimming underwater.,"Trash:0, Objects:0, Animal:0, Vegetation:0"
+3753.jpg,18,"[""MMR2_Scale"", ""MMR6_Translate""]",2,nan,0.500000,0.830943,"{""MMR2_Scale"": {""zoom_level"": 1.118057919125573}, ""MMR6_Translate"": {""h_shift_pct"": -0.01312248730955708}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: One person is swimming underwater.,"Trash:0, Objects:0, Animal:0, Vegetation:0"
+3753.jpg,19,"[""MMR6_Translate""]",1,nan,0.000000,0.672870,"{""MMR6_Translate"": {""h_shift_pct"": 0.02018609600128967}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: None
+2. Vegetation: None
+3. Trash: One object
+4. Objects: One object","Trash:0, Objects:1, Animal:0, Vegetation:0"
+3753.jpg,20,"[""MMR5_Shear"", ""MMR6_Translate"", ""MMR4_Downsample""]",3,nan,1.000000,0.976048,"{""MMR5_Shear"": {""h_shear"": 0.08249956893452728}, ""MMR6_Translate"": {""h_shift_pct"": -0.008800215686385261}, ""MMR4_Downsample"": {""scale_factor"": 0.986729004012798}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There are no visible animals in the underwater image.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,21,"[""MMR4_Downsample"", ""MMR2_Scale"", ""MMR5_Shear"", ""MMR6_Translate"", ""MMR1_Rotation""]",5,nan,0.000000,3.623964,"{""MMR4_Downsample"": {""scale_factor"": 0.9306539676625551}, ""MMR2_Scale"": {""zoom_level"": 0.7949300468936148}, ""MMR5_Shear"": {""h_shear"": -0.10785406485382928}, ""MMR6_Translate"": {""h_shift_pct"": -0.020360797741215454}, ""MMR1_Rotation"": {""angle"": -4.246085455824755}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: None
+2. Vegetation: None
+3. Trash: One object
+4. Objects: One object","Trash:0, Objects:1, Animal:0, Vegetation:0"
+3753.jpg,22,"[""MMR4_Downsample""]",1,nan,0.000000,0.270246,"{""MMR4_Downsample"": {""scale_factor"": 0.9729754483252013}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0"
+3753.jpg,23,"[""MMR1_Rotation"", ""MMR4_Downsample"", ""MMR5_Shear""]",3,nan,1.000000,1.692865,"{""MMR1_Rotation"": {""angle"": 4.205767293009831}, ""MMR4_Downsample"": {""scale_factor"": 0.9408208478769956}, ""MMR5_Shear"": {""h_shear"": 0.03898799105881212}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There are no visible animals in the underwater image.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,24,"[""MMR5_Shear""]",1,nan,1.000000,0.902048,"{""MMR5_Shear"": {""h_shear"": -0.13530725425639042}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There are no visible animals in the underwater image.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,25,"[""MMR2_Scale"", ""MMR4_Downsample"", ""MMR6_Translate"", ""MMR1_Rotation"", ""MMR3_HistEq""]",5,nan,1.000000,1.778552,"{""MMR2_Scale"": {""zoom_level"": 1.0023044112002055}, ""MMR4_Downsample"": {""scale_factor"": 0.9353314498200715}, ""MMR6_Translate"": {""h_shift_pct"": -0.0017281339508690326}, ""MMR1_Rotation"": {""angle"": 2.3597515488690295}, ""MMR3_HistEq"": {""clip_limit"": 1.5946306305643054}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There are no visible animals in the underwater image.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,26,"[""MMR1_Rotation"", ""MMR4_Downsample"", ""MMR6_Translate"", ""MMR3_HistEq"", ""MMR2_Scale"", ""MMR5_Shear""]",6,nan,2.000000,3.874146,"{""MMR1_Rotation"": {""angle"": 2.684219614265235}, ""MMR4_Downsample"": {""scale_factor"": 0.9394409482266189}, ""MMR6_Translate"": {""h_shift_pct"": 0.010267121081118998}, ""MMR3_HistEq"": {""clip_limit"": 2.421678391536}, ""MMR2_Scale"": {""zoom_level"": 0.9088051108786002}, ""MMR5_Shear"": {""h_shear"": 0.09957192952761115}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 plastic bottle
+4. Objects: 1 frame","Trash:1, Objects:0, Animal:1, Vegetation:1"
+3753.jpg,27,"[""MMR3_HistEq"", ""MMR1_Rotation"", ""MMR6_Translate"", ""MMR5_Shear"", ""MMR4_Downsample""]",5,nan,2.000000,1.484688,"{""MMR3_HistEq"": {""clip_limit"": 1.8299913611069432}, ""MMR1_Rotation"": {""angle"": -1.1986642509477408}, ""MMR6_Translate"": {""h_shift_pct"": -0.003967564664324255}, ""MMR5_Shear"": {""h_shear"": 0.00729087023326408}, ""MMR4_Downsample"": {""scale_factor"": 0.9765894312517884}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 piece of trash
+4. Objects: 1 rock","Trash:1, Objects:0, Animal:1, Vegetation:1"
+3753.jpg,28,"[""MMR6_Translate"", ""MMR1_Rotation"", ""MMR5_Shear"", ""MMR4_Downsample"", ""MMR3_HistEq"", ""MMR2_Scale""]",6,nan,2.000000,3.932341,"{""MMR6_Translate"": {""h_shift_pct"": 0.020469223069607106}, ""MMR1_Rotation"": {""angle"": 1.63450621958334}, ""MMR5_Shear"": {""h_shear"": -0.08528428457301368}, ""MMR4_Downsample"": {""scale_factor"": 0.9210569446801572}, ""MMR3_HistEq"": {""clip_limit"": 1.7107278957473975}, ""MMR2_Scale"": {""zoom_level"": 0.7436762617198238}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 plastic bottle
+4. Objects: 1 rock","Trash:1, Objects:0, Animal:1, Vegetation:1"
+3753.jpg,29,"[""MMR5_Shear"", ""MMR2_Scale"", ""MMR3_HistEq"", ""MMR4_Downsample""]",4,nan,2.000000,2.047515,"{""MMR5_Shear"": {""h_shear"": -0.05104003943304604}, ""MMR2_Scale"": {""zoom_level"": 0.8248288701164183}, ""MMR3_HistEq"": {""clip_limit"": 2.0643664645108784}, ""MMR4_Downsample"": {""scale_factor"": 0.994102254201648}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 piece of trash
+4. Objects: 1 frame","Trash:1, Objects:0, Animal:1, Vegetation:1"
+3753.jpg,30,"[""MMR5_Shear"", ""MMR2_Scale"", ""MMR1_Rotation"", ""MMR6_Translate"", ""MMR3_HistEq""]",5,nan,1.000000,2.607259,"{""MMR5_Shear"": {""h_shear"": 0.12088407112635688}, ""MMR2_Scale"": {""zoom_level"": 1.0447426296794449}, ""MMR1_Rotation"": {""angle"": 4.703405544468595}, ""MMR6_Translate"": {""h_shift_pct"": -0.015294388117200944}, ""MMR3_HistEq"": {""clip_limit"": 1.2017286914021172}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There is a fish swimming in the water.,"Trash:0, Objects:0, Animal:1, Vegetation:0"
+3753.jpg,31,"[""MMR5_Shear"", ""MMR1_Rotation""]",2,nan,2.000000,1.553983,"{""MMR5_Shear"": {""h_shear"": 0.11020369901124696}, ""MMR1_Rotation"": {""angle"": -4.096459569138657}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 plastic bottle
+4. Objects: 1 rock","Trash:1, Objects:0, Animal:1, Vegetation:1"
+3753.jpg,32,"[""MMR3_HistEq"", ""MMR5_Shear""]",2,nan,1.166667,2.017258,"{""MMR3_HistEq"": {""clip_limit"": 2.527462158684598}, ""MMR5_Shear"": {""h_shear"": -0.073469415353431}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0",1. Animals: There are two fish swimming in the water.,"Trash:0, Objects:0, Animal:2, Vegetation:0"
+3753.jpg,33,"[""MMR4_Downsample"", ""MMR2_Scale"", ""MMR6_Translate"", ""MMR1_Rotation"", ""MMR5_Shear"", ""MMR3_HistEq""]",6,nan,2.000000,3.883173,"{""MMR4_Downsample"": {""scale_factor"": 0.9529758961166868}, ""MMR2_Scale"": {""zoom_level"": 0.7966708692422466}, ""MMR6_Translate"": {""h_shift_pct"": 0.015502770518649997}, ""MMR1_Rotation"": {""angle"": -2.549863236251398}, ""MMR5_Shear"": {""h_shear"": -0.020268973197995033}, ""MMR3_HistEq"": {""clip_limit"": 2.573310041353192}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 piece of trash
+4. Objects: 1 square frame","Trash:1, Objects:0, Animal:1, Vegetation:1"
+3753.jpg,34,"[""MMR3_HistEq"", ""MMR1_Rotation"", ""MMR4_Downsample""]",3,nan,1.500000,0.907501,"{""MMR3_HistEq"": {""clip_limit"": 1.534481887296302}, ""MMR1_Rotation"": {""angle"": -1.1517395374155526}, ""MMR4_Downsample"": {""scale_factor"": 0.985732870061629}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 piece of trash
+4. Objects: 1 object","Trash:1, Objects:1, Animal:1, Vegetation:1"
+3753.jpg,35,"[""MMR4_Downsample""]",1,nan,0.000000,0.022760,"{""MMR4_Downsample"": {""scale_factor"": 0.9977239894374652}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0"
+3753.jpg,36,"[""MMR5_Shear"", ""MMR2_Scale"", ""MMR3_HistEq""]",3,nan,2.000000,1.928859,"{""MMR5_Shear"": {""h_shear"": 0.09304567522242854}, ""MMR2_Scale"": {""zoom_level"": 0.8183019702916775}, ""MMR3_HistEq"": {""clip_limit"": 1.7028944911402646}}","1. Animals: None
+2. Vegetation: None
+3. Trash: None
+4. Objects: One yellow object","Trash:0, Objects:1, Animal:0, Vegetation:0","1. Animals: 1 fish
+2. Vegetation: 1 plant
+3. Trash: 1 piece of trash
+4. Objects: 1 rock
+
+In this underwater image, there are four visible objects:
+
+1. One fish
+2. One plant
+3. One piece of trash
+4. One rock","Trash:1, Objects:0, Animal:1, Vegetation:1"
