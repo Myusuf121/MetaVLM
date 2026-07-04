@@ -1,5 +1,4 @@
-# VLMTest: Evolutionary Metamorphic Testing of Vision-Language Models
-
+# VLMTest: Search-Based Metamorphic Testing of Vision-Language Models in Autonomous Underwater Robotic Software
 Official implementation accompanying our paper on evolutionary metamorphic testing of Vision-Language Models (VLMs) for underwater perception.
 
 ## Overview
@@ -8,10 +7,10 @@ This repository implements an automated metamorphic testing framework that combi
 
 - NSGA-II (multi-objective evolutionary search)
 - Random Search (baseline)
-- Multiple image-based Metamorphic Relations (MRs)
-- Vision-Language Models (VLMs)
+- Six image-based Metamorphic Relations (MRs)
+- Two Vision-Language Models (VLMs)
 
-The framework automatically searches for image transformations that induce perception failures while minimizing image distortion.
+The framework automatically searches for minimal image transformations that induce perception failures while maximizing VLM predictions.
 
 ## Supported Vision-Language Models
 
@@ -52,14 +51,14 @@ cd <repository>
 For BLIP
 
 ```bash
-conda env create -f configs/blip_environment.yml
+conda env create -f blip_environment.yml
 conda activate blip
 ```
 
 For CLIP
 
 ```bash
-conda env create -f configs/clip_environment.yml
+conda env create -f clip_environment.yml
 conda activate clip
 ```
 
@@ -74,20 +73,19 @@ python -m ipykernel install --user --name blip --display-name "Python (BLIP)"
 Run NSGA-II
 
 ```bash
-python src/nsga/main.py
+python batch_scripts/run_nsga.sbatch
 ```
 
 Run Random Search
 
 ```bash
-python src/random_search/main.py
+python batch_scripts/run_random.sbatch
 ```
 
 Run statistical analysis
 
 ```bash
-python analysis/rq1_analysis.py
-python analysis/rq2_analysis.py
+python codes/RQ1_2_3VLMTest.ipynb
 ```
 
 ## Outputs
@@ -99,9 +97,8 @@ The framework generates:
 - Generation-wise logs
 - Run-level metrics
 - Hypervolume (HV)
-- Inverted Generational Distance (IGD)
 - Statistical significance tests
-- Publication-ready figures and tables
+- Publication-ready tables
 
 ## Citation
 
