@@ -70,6 +70,8 @@ python -m ipykernel install --user --name blip --display-name "Python (BLIP)"
 
 ## Running Experiments
 
+We conducted all experiments on the eX3 GPU cluster. Both the NSGA-II and Random Search algorithms were executed 10 independent times for each of the 30 input images, with each run consisting of 100 generations. The experimental pipeline was automated using batch scripts that executed the corresponding Python programs.
+
 Run NSGA-II
 
 ```bash
