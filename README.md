@@ -1,4 +1,4 @@
-# VLMTest: Search-Based Metamorphic Testing of Vision-Language Models in Autonomous Underwater Robotic Software
+# MetaVLM: Search-Based Metamorphic Testing of Vision-Language Models in Autonomous Underwater Robotic Software
 Official implementation accompanying our paper on evolutionary metamorphic testing of Vision-Language Models (VLMs) for underwater perception.
 
 ## Overview
